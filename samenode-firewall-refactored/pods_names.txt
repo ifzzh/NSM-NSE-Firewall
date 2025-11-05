@@ -1,0 +1,3 @@
+pod/alpine
+pod/nse-firewall-vpp-67b5f7f648-gqb65
+pod/nse-kernel-5d96b8d6d5-gztrd
